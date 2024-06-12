@@ -1,4 +1,4 @@
-# Product Catalog
+# Todo App
 ## [DEMO](https://ihor-prodan.github.io/todo-app/)
 
 ## Overview
